@@ -20,20 +20,20 @@ Fifth challenge:
 2. Solution: https://www.dropbox.com/scl/fi/bg41nrozqa8h8sjcc6o85/Is%20the%20Number%20Less%20than%20or%20Equal%20to%20Zero_.paper?dl=0&rlkey=3ynhl6j7zs291kl9o790rejjz
 
 b) Arrays: 
+ 
+First challenge:
+1. Task: https://edabit.com/challenge/3LpBLgNRyaHMvNb4j
+2. Solution: https://www.dropbox.com/scl/fi/bg41nrozqa8h8sjcc6o85/Is%20the%20Number%20Less%20than%20or%20Equal%20to%20Zero_.paper?dl=0&rlkey=3ynhl6j7zs291kl9o790rejjz
 
-challenge:
-1. Task: 
-2. Solution:
+Second challenge:
+1. Task: https://edabit.com/challenge/8Qg78sf5SNDEANKti
+2. Solution: https://www.dropbox.com/scl/fi/bg41nrozqa8h8sjcc6o85/Is%20the%20Number%20Less%20than%20or%20Equal%20to%20Zero_.paper?dl=0&rlkey=3ynhl6j7zs291kl9o790rejjz
 
-challenge:
-1. Task: 
-2. Solution:
+Third challenge:
+1. Task: https://edabit.com/challenge/Gpy2qSFnfhGJnWMMj
+2. Solution: https://www.dropbox.com/scl/fi/bg41nrozqa8h8sjcc6o85/Is%20the%20Number%20Less%20than%20or%20Equal%20to%20Zero_.paper?dl=0&rlkey=3ynhl6j7zs291kl9o790rejjz
 
-challenge:
-1. Task: 
-2. Solution:
-
-challenge:
+Fourth challenge:
 1. Task: 
 2. Solution:
 
